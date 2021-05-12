@@ -12,7 +12,7 @@
     "src/*.js"
   ],
   "dependencies": {
-    "eth-json-rpc-middleware": "^6.0.0",
+    "eth-json-rpc-middleware": "github:paulbarclay/eth-json-rpc-middleware#e0577c85bd4df097464c43c192c11bce69aa7ea5",
     "eth-rpc-errors": "^3.0.0",
     "json-rpc-engine": "^5.3.0",
     "node-fetch": "^2.6.1"
